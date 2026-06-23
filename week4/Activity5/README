@@ -1,1 +1,8 @@
-This folder contains the implementation of a Rubik's Cube with keyboard controls
+This activity contains the implementation of Rubik's Cube
+
+The controls are as follows :
+1. Arrow keys, Page Up/Down - Orbit the camera
+2. P - Toggle perspective / orthographic
+3. U/D/L/R/F/B - Rotate that face clockwise
+4. Shift + (U/D/L/R/F/B) - Rotate that face counter-clockwise
+5. Esc - Quit
