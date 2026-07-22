@@ -1,0 +1,10 @@
+Timeline for the project :
+- Week 0 - C++ refresher: references, RAII, smart pointers, operator overloading, function overloading, templates preview.
+- Week 1 - git,  gdb,  CMake, make, sanitizers.                                       
+- Week 2 - OpenGL setup (GLFW, GLM), first vertex,  fragment shaders to draw a triangle; introduction RenderDoc.                                                                      
+- Week 3 - Transforms (model/view/projection), orbit camera, render a textured/colored cube with keyboard controls.                                                                    
+- Week 4 - Rubik's cube with per-face rotation.                                                                                       
+- Week 5 - GLSL deep dive: Phong lighting (ambient/diffuse/specular), per-vertex normals, uniforms; RenderDoc shader stepping.                                                         
+- Week 6 - Hardcoded surface plotter (z = sin(x)cos(y)) with smooth normals and color-by-height fragment shader.                    
+- Week 7 - Expression tree design (Expr, BinaryOp, Variable, FuncCall); start the operator-overloaded C++ DSL.                                                                         
+- Week 8 - Finish the DSL,  Add a runtime string parser so equations can come from a text file.     
