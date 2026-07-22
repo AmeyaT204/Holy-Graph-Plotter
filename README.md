@@ -7,4 +7,5 @@ Timeline for the project :
 - Week 5 - GLSL deep dive: Phong lighting (ambient/diffuse/specular), per-vertex normals, uniforms; RenderDoc shader stepping.                                                         
 - Week 6 - Hardcoded surface plotter (z = sin(x)cos(y)) with smooth normals and color-by-height fragment shader.                    
 - Week 7 - Expression tree design (Expr, BinaryOp, Variable, FuncCall); start the operator-overloaded C++ DSL.                                                                         
-- Week 8 - Finish the DSL,  Add a runtime string parser so equations can come from a text file.     
+- Week 8 - Finish the DSL,  Add a runtime string parser so equations can come from a text file.                                                                          
+- Week 9 - Time-varying surfaces driven by t, keyboard-controlled play/pause/speed, toggleable wireframe/flat/Phong modes.        
